@@ -1,0 +1,32 @@
+_repo: Thoughts-of-Saint-Therese-of-the-Child-Jesus_63294
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thérèse, de Lisieux, Saint
+    aliases:
+    - Lisieux, Saint Thérèse of
+    - Martin, Teresa, Saint
+    - Theresa of the Child Jesus, Saint
+    - Little Flower of Jesus, Saint
+    - Martin, Marie Françoise Thérèse, Saint
+    - Martin, Marie Francoise Therese, Saint
+    birthdate: 1873
+    deathdate: 1897
+    gutenberg_agent_id: '6923'
+    url: http://www.gutenberg.org/2009/agents/6923
+    wikipedia: https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_de_Lisieux
+description: ''
+gutenberg_issued: '2020-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meditations'
+- !lcc 'BX'
+- GITenberg
+title: Thoughts of Saint Thérèse of the Child Jesus
+url: http://www.gutenberg.org/ebooks/63294
